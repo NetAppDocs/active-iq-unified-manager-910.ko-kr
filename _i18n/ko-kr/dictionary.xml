@@ -11517,4 +11517,5 @@
   <block id="13ea07d85e49bbdae7a2c0414691f416" category="sidebar">스토리지 모니터링 및 관리</block>
   <block id="2d00b9d7d66bb4524df569339f8a571c" category="sidebar">Unified Manager에서 직접 ONTAP 문제 해결 또는 관리</block>
   <block id="55d42c07c7a3bf8612627277cc3d1372" category="paragraph">이 제품에 사용된 타사 저작권 및 라이센스에 대한 정보입니다.</block>
+  <block id="5ecb6b24c169667ff1a176768115659e" category="sidebar">Active IQ Unified Manager</block>
 </blocks>
