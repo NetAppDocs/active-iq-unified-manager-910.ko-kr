@@ -9811,7 +9811,6 @@
   <block id="ae48afa96207ddbaa3cc0fd8af90a98e" category="list-text">복원할 클러스터, SVM 및 볼륨을 선택합니다.</block>
   <block id="bc621350fbc23e6ec1741153ed6e331f" category="list-text">이름 테이블에서 디렉토리 이름을 선택합니다.</block>
   <block id="2d0fcfb8d7bf7c097d1eab05f1ec38bf" category="list-text">디렉터리 선택 * 을 클릭합니다.</block>
-  <block id="ef2e98478d29a26f02db2c56ea13bc57" category="paragraph">NDMP 오류가 있는 Cloud Volumes ONTAP HA 클러스터 간에 복구 작업이 실패할 경우 대상이 소스 시스템의 클러스터 관리 LIF와 통신할 수 있도록 타겟 클러스터에 명시적 AWS 경로를 추가해야 할 수 있습니다. OnCommand Cloud Manager를 사용하여 이 구성 단계를 수행합니다.</block>
   <block id="7331ad8836c59b4b432445f8fc5c99e4" category="summary">버전에 상관없이 유연한 복제 및 백업 옵션 기능을 통해 SnapMirror 관계를 구축할 수 있습니다. 백업 옵션 기능을 사용하면 SnapMirror 보호를 구현하고 여러 버전의 백업 복사본을 대상 위치에 유지할 수 있습니다.</block>
   <block id="e36facec58d4fd1ab5145c36e21c2862" category="doc">버전에 상관없이 유연하게 복제 가능한 백업 옵션을 사용하여 SnapMirror 관계 생성</block>
   <block id="3548e0e1f21a7e1571e5fe3cbe618416" category="list-text">소스 및 타겟 SVM에는 각각 SnapVault 라이센스가 활성화되어 있어야 합니다.</block>
@@ -11438,8 +11437,6 @@
   <block id="e06e49da3fb49fecd85244c11ba7754d" category="list-text">동일한 버전의 Active IQ Unified Manager에서만 스냅샷 복사본을 복원할 수 있습니다.</block>
   <block id="839fa2b63b981f33da59323dbb6922ca" category="doc">Windows에서 스냅샷 복사본의 대상 위치 지정</block>
   <block id="895ab5c620e863020033929131d3f188" category="list-text">유지보수 콘솔을 종료하고 Active IQ Unified Manager 인터페이스를 실행하여 스냅샷 복사본의 일정을 생성합니다.</block>
-  <block id="1024da4d1e601efc60b6d334667fb372" category="inline-link-macro">AIQUM에서 AIQCASecure 규칙을 수동으로 업데이트하는 방법</block>
-  <block id="ab8d738b545ae820bcf3e08c1381f9d5" category="paragraph">자세한 내용은 다음 기술 자료(KB) 문서를 참조하십시오. <block ref="2880d9e8074f03320d24915675f84536" category="inline-link-macro-rx"></block></block>
   <block id="97bbb871095678061fcc80b68b1e751b" category="paragraph">이는 클러스터의 모든 노드에 사용된 성능 용량 값을 비교하여 어떤 노드도 24시간 이상 30% 임계값을 초과하는지 여부를 확인하는 방식으로 실행됩니다. 이것은 경고 이벤트입니다.</block>
   <block id="4b182fd97f4652b30a2fb7e34f4c9bf6" category="paragraph">Active IQ Unified Manager 9.10의 새로운 기능, 제한 사항 및 알려진 문제에 대한 요약을 제공합니다.</block>
   <block id="e3474a37b8b8000684dda99833abd480" category="sidebar">Active IQ Unified Manager 9.10 문서</block>
@@ -11522,4 +11519,7 @@
   <block id="098f9c8760d143ea65998c16b9355dc8" category="list-text">다운로드한 패키지를 설치 시스템에서 Unified Manager 번들의 압축을 푼 디렉토리에 복사합니다.</block>
   <block id="eb48c0935181b533718e0dc01d2336f0" category="list-text">디렉토리를 해당 디렉토리로 변경하고 다음 명령을 실행하여 누락된 패키지를 해당 종속성에 따라 설치합니다.</block>
   <block id="ccb2222b0ddd075041c68e90def28092" category="paragraph">이 프로세스는 Unified Manager 업그레이드 프로세스를 완료합니다. 지원되는 웹 브라우저의 새 창에 지정된 IP 주소 또는 URL을 입력하여 Unified Manager 웹 UI를 시작한 다음, 앞서 설정한 유지보수 사용자 이름(umadmin) 및 암호를 사용하여 로그인합니다.</block>
+  <block id="f76a02997799aac32e213591073ce977" category="inline-link-macro">Active IQ Unified Manager에서 AIQCASecure 규칙을 수동으로 업데이트하는 방법</block>
+  <block id="430faf3dc4359c7567b9aa2464e05a7b" category="paragraph">자세한 내용은 다음 기술 자료(KB) 문서를 참조하십시오.<block ref="5bddd87587ead14d65a9ed529343bb03" category="inline-link-macro-rx"></block>.</block>
+  <block id="747c77249313eab0521246ecfbad977b" category="paragraph">NDMP 오류가 있는 Cloud Volumes ONTAP HA 클러스터 간에 복구 작업이 실패할 경우 대상이 소스 시스템의 클러스터 관리 LIF와 통신할 수 있도록 타겟 클러스터에 명시적 AWS 경로를 추가해야 할 수 있습니다. BlueXP를 사용하여 이 구성 단계를 수행합니다.</block>
 </blocks>
