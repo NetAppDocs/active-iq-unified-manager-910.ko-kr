@@ -505,7 +505,6 @@
   <block id="3dd2f0172eaa00cd434319d564dad025" category="list-text">다음 스크립트를 사용하여 Unified Manager 업그레이드:</block>
   <block id="7235fc94d270002699e871e8bad9343e" category="paragraph">업그레이드.sh</block>
   <block id="a1dc836a95e30b0785dbc6baa6107b89" category="list-text">업그레이드가 완료된 후 Unified Manager 웹 UI의 IP 주소 또는 URL, 유지보수 사용자 이름(umadmin) 및 기본 암호가 표시된 메시지가 나타날 때까지 메시지를 다시 스크롤합니다.</block>
-  <block id="91d9102f2b20d2487525cb47bf7d79a5" category="summary">Active IQ Unified Manager, AIQUM 문서, UM 문서에 대한 문서입니다</block>
   <block id="4a58c6ba2ac7cf0f2cd001d223b14e50" category="doc">Active IQ Unified Manager 문서</block>
   <block id="69b2ae16273665eaebb99a26650649b5" category="doc">Windows 설치를 위한 빠른 시작 지침</block>
   <block id="c77a66b379540bb4341f088044ab2a10" category="list-text">운영 체제: Microsoft Windows Server 2016 및 2019 64비트 Standard 및 Datacenter Edition. 지원되는 언어는 다음과 같습니다.</block>
@@ -11417,7 +11416,6 @@
   <block id="97bbb871095678061fcc80b68b1e751b" category="paragraph">이는 클러스터의 모든 노드에 사용된 성능 용량 값을 비교하여 어떤 노드도 24시간 이상 30% 임계값을 초과하는지 여부를 확인하는 방식으로 실행됩니다. 이것은 경고 이벤트입니다.</block>
   <block id="4b182fd97f4652b30a2fb7e34f4c9bf6" category="paragraph">Active IQ Unified Manager 9.10의 새로운 기능, 제한 사항 및 알려진 문제에 대한 요약을 제공합니다.</block>
   <block id="e3474a37b8b8000684dda99833abd480" category="sidebar">Active IQ Unified Manager 9.10 문서</block>
-  <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager를 참조하십시오</block>
   <block id="ffef03803be76fabe5b17e1b0cca3ca2" category="inline-link-macro">Active IQ Unified Manager REST API 시작하기</block>
   <block id="cb944a353faccd474d54a219e39f21a4" category="paragraph">REST API는 Swagger 웹 페이지를 통해 표시됩니다. Swagger 웹 페이지에 액세스하여 Unified Manager REST API 설명서를 표시하고 API 호출을 수동으로 실행할 수 있습니다. Unified Manager 웹 UI의 메뉴 모음에서 * 도움말 * 버튼을 클릭한 다음 * API Documentation * 을 선택합니다. Unified Manager REST API에 대한 자세한 내용은 를 참조하십시오 <block ref="821164fa8c5ff02f6a5d3ecc3d001b16" category="inline-link-macro-rx"></block>.</block>
   <block id="49a2d659c06bc8361ef02763a5e7645d" category="paragraph">이 섹션에서는 UI를 통한 Unified Manager 보고 및 일정에 대해 다룹니다.</block>
@@ -11545,4 +11543,6 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="74921508f10ccca3d8de0340bf05a39b" category="sidebar">Active IQ Unified Manager(Unified Manager 및 이전의 OnCommand Unified Manager)를 사용하면 단일 인터페이스에서 ONTAP 스토리지 시스템의 상태 및 성능을 모니터링 및 관리할 수 있습니다. 이 설명서 라이브러리에는 버전 9.10에 대한 정보가 포함되어 있습니다.</block>
+  <block id="6ea56a8072cf044e1de510b8b225ef34" category="sidebar">Active IQ Unified Manager 9.10 설명서.</block>
 </blocks>
